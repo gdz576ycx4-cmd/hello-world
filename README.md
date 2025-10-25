@@ -1,3 +1,2 @@
-# hello-world
-me chamo Yudi
-estou iniciando do zero no mundo ta tecnologia
+# hello
+me chamo Yudi e estou tentando seguir esse caminho de tecnologia
