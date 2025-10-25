@@ -1,3 +1,3 @@
 # hello-world
-iniciar do zero no mundo ta tecnologia
-iniciando nesse mundo
+me chamo Yudi
+estou iniciando do zero no mundo ta tecnologia
